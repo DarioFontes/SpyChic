@@ -536,7 +536,7 @@ public class SpyChic {
     }
 
     private void mostrarPistas(Carta[] cartas) {
-        System.out.println("\n🕵️ PISTAS:");
+        System.out.println("\n PISTAS:");
         System.out.println("• Busca la carta que pertenece a una categoría diferente");
         System.out.println("• El espía es la única carta que no encaja con el grupo principal");
         System.out.println("• Las categorías son: Animal, Profesión, Objeto, Lugar");
